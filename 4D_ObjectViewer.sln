@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "4D_ObjectViewer", "4D_ObjectViewer.pyproj", "{E47BC4B1-1461-4607-9B23-FD892246D79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47BC4B1-1461-4607-9B23-FD892246D79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47BC4B1-1461-4607-9B23-FD892246D79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A31F6F-CB57-47A5-B560-6DC970BB798E}
+	EndGlobalSection
+EndGlobal
